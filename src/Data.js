@@ -1,0 +1,18 @@
+export const items = [
+  { id: Math.random(), title: 'وجبه الفطور', description: 'وصف الفطور وصف الفطور وصف الفطور', price: '33 ريال', category: 'الفطور', imgUrl: "1.png" },
+  { id: Math.random(), title: 'وجبه الفطور', description: 'وصف الفطور وصف الفطور وصف الفطور', price: '33 ريال', category: 'الفطور', imgUrl: "1.png" },
+  { id: Math.random(), title: 'وجبه الفطور', description: 'وصف الفطور وصف الفطور وصف الفطور', price: '33 ريال', category: 'الفطور', imgUrl: "1.png" },
+  { id: Math.random(), title: 'وجبه الفطور', description: 'وصف الفطور وصف الفطور وصف الفطور', price: '33 ريال', category: 'الفطور', imgUrl: "1.png" },
+  { id: Math.random(), title: 'وجبه الغداء', description: 'وصف وجبة الغداء وصف وجبة الغداء وصف وجبة الغداء', price: '44 ريال', category: 'الغداء', imgUrl: "2.png" },
+  { id: Math.random(), title: 'وجبه الغداء', description: 'وصف وجبة الغداء وصف وجبة الغداء وصف وجبة الغداء', price: '44 ريال', category: 'الغداء', imgUrl: "2.png" },
+  { id: Math.random(), title: 'وجبه الغداء', description: 'وصف وجبة الغداء وصف وجبة الغداء وصف وجبة الغداء', price: '44 ريال', category: 'الغداء', imgUrl: "2.png" },
+  { id: Math.random(), title: 'وجبه الغداء', description: 'وصف وجبة الغداء وصف وجبة الغداء وصف وجبة الغداء', price: '44 ريال', category: 'الغداء', imgUrl: "2.png" },
+  { id: Math.random(), title: 'وجبه العشاء', description: ' وصف العشاء  وصف العشاء  وصف العشاء ', price: '40 ريال', category: 'العشاء', imgUrl: "3.png" },
+  { id: Math.random(), title: 'وجبه العشاء', description: ' وصف العشاء  وصف العشاء  وصف العشاء ', price: '40 ريال', category: 'العشاء', imgUrl: "3.png" },
+  { id: Math.random(), title: 'وجبه العشاء', description: ' وصف العشاء  وصف العشاء  وصف العشاء ', price: '40 ريال', category: 'العشاء', imgUrl: "3.png" },
+  { id: Math.random(), title: 'وجبه العشاء', description: ' وصف العشاء  وصف العشاء  وصف العشاء ', price: '40 ريال', category: 'العشاء', imgUrl: "3.png" },
+  { id: Math.random(), title: 'وجبه السناك', description: 'وصف وجبة السناك  وصف وجبة السناك  وصف وجبة السناك ', price: '12 ريال', category: 'سناك', imgUrl: "4.png" },
+  { id: Math.random(), title: 'وجبه السناك', description: 'وصف وجبة السناك  وصف وجبة السناك  وصف وجبة السناك ', price: '12 ريال', category: 'سناك', imgUrl: "4.png" },
+  { id: Math.random(), title: 'وجبه السناك', description: 'وصف وجبة السناك  وصف وجبة السناك  وصف وجبة السناك ', price: '12 ريال', category: 'سناك', imgUrl: "4.png" },
+  { id: Math.random(), title: 'وجبه السناك', description: 'وصف وجبة السناك  وصف وجبة السناك  وصف وجبة السناك ', price: '12 ريال', category: 'سناك', imgUrl: "4.png" },
+]
